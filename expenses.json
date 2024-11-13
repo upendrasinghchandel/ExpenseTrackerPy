@@ -1,0 +1,19 @@
+{
+    "expenses": [
+        {
+            "date": "2024-11-12",
+            "category": "Food",
+            "amount": 2000.0,
+            "description": "food grains"
+        },
+        {
+            "date": "2024-11-12",
+            "category": "Food",
+            "amount": 3000.0,
+            "description": "Food"
+        }
+    ],
+    "budgets": {
+        "90000": 90000.0
+    }
+}
